@@ -1,6 +1,4 @@
-Here’s your **README.md** file with proper bullet points:  
 
----
 
 # 📦 E-commerce Website - Electronics  
 ### 🛠 Built with Spring Boot | September 2024  
